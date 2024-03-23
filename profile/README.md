@@ -1,7 +1,5 @@
 # Welcome! 🎉
 
-Welcome to the repository of Kei, Ibrahim, and Florian! 🚀
-
 ## About Us ℹ️
 
 We are students at WISS, embarking on a journey to obtain our Vocational Diploma in IT. This repository is a testament to our shared commitment to learning, collaboration, and accountability. 📚💻
